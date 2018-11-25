@@ -1,7 +1,7 @@
 {
   "name": "react-mobx-boilerplate",
   "version": "0.0.1",
-  "description": "A react boilerplate project featuring webpack 2, HMR, code splitting, mobx, SSR",
+  "description": "A react boilerplate project featuring webpack, HMR, code splitting, mobx, SSR",
   "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development node webpack/webpack-dev-server --env.dev",
