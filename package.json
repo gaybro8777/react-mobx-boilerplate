@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mosho1/react-mobx-boilerplate.git"
+    "url": "https://github.com/mobxjs/react-mobx-boilerplate.git"
   },
   "author": "Sharon Rolel <sharonrolel@gmail.com>",
-  "homepage": "https://github.com/Mosho1/react-mobx-boilerplate",
+  "homepage": "https://github.com/mobxjs/react-mobx-boilerplate",
   "dependencies": {    
     "mobx": "4.3.1",
     "mobx-react": "5.2.3",
